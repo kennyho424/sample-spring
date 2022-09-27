@@ -1,0 +1,20 @@
+[
+  {
+    "id": "001",
+    "name": "Kenny",
+    "gender": "M",
+    "studentId": "S00001"
+  },
+  {
+    "id": "002",
+    "name": "Mary",
+    "gender": "F",
+    "studentId": "S00002"
+  },
+  {
+    "id": "003",
+    "name": "Tom",
+    "gender": "M",
+    "studentId": "S00003"
+  }
+]
